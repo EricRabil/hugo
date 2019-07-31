@@ -65,3 +65,4 @@ js/
 ts/data.json
 
 blip*.json
+config.ts

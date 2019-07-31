@@ -1,5 +1,5 @@
 export const config = {
-    token: "NjA1OTQyMDY4MDE5MzMxMDk5.XUD4qA.SqG0mVLmldhQ7e5PCJRYh-gciKE",
+    token: "nekot",
     gods: ["163024083364216832"],
     db: {
         type: "postgres",
