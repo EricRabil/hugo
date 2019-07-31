@@ -1,0 +1,22 @@
+{
+  "name": "hugo",
+  "version": "1.0.0",
+  "description": "Bad bitch hugo",
+  "main": "js/index.js",
+  "repository": "https://github.com/EricRabil/hugo",
+  "author": "Eric Rabil <ericjrabil@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dd-botkit": "1.0.84",
+    "pg": "^7.12.0",
+    "public-ip": "^3.1.0",
+    "reflect-metadata": "^0.1.13",
+    "tunnel-ssh": "^4.1.4"
+  },
+  "devDependencies": {
+    "@types/public-ip": "^3.1.0",
+    "@types/tunnel-ssh": "^4.1.0",
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.5.3"
+  }
+}
